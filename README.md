@@ -11,7 +11,7 @@ The goal was to build a responsive recipe page and make it look as close as poss
 
 ### Screenshot
 
-![Recipe page preview](./recipe-page.png)
+![Recipe page preview](./Screenshot%202026-08-25%20163846.png)
 
 ### Links
 
