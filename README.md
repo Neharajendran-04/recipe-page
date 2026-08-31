@@ -11,13 +11,13 @@ The goal was to build a responsive recipe page and make it look as close as poss
 
 ### Screenshot
 
-![Recipe page preview](./recipe.jpg)
+![Recipe page preview](./recipe-page.png)
 
 ### Links
 
-* **Solution URL:** [https://www.frontendmentor.io/solutions/qr-code-component-responsive-html-and-css-SR1jnv_RFE]
-* **Live Site URL:** [https://qr-code-component-frontend-mentors.netlify.app/]
-* **GitHub Repository:** [https://github.com/Neharajendran-04/QR-code-component]
+* **Solution URL:** [https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm?tab=submit]
+* **Live Site URL:** [https://recipe-page-ten-theta.vercel.app/]
+* **GitHub Repository:** [https://github.com/Neharajendran-04/recipe-page]
 
 
 ## Built with
@@ -49,8 +49,8 @@ I would like to continue improving my ability to accurately reproduce designs fr
 
 ## Author
 
-* Frontend Mentor - [@your-username](https://www.frontendmentor.io/)
-* GitHub - [@your-username](https://github.com/)
+* Frontend Mentor - [@your-username](https://www.frontendmentor.io/profile/Neharajendran-04)
+* GitHub - [@your-username](https://github.com/Neharajendran-04)
 
 ## Acknowledgments
 
